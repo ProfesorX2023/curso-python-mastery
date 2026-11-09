@@ -1,0 +1,19 @@
+A = {1,2,3,4,5}
+B = {4,5,6,7,8}
+
+print(A | B)
+print(A & B)
+print(A - B)
+print(B - A)
+print(A ^ B)
+
+print(A.union(B))
+print(A.intersection(B))
+print(A.difference(B))
+print(A.symmetric_difference(B))
+
+print(3 in A)
+print(99 in A)
+
+#ANALISIS ALGORITMOS
+#lISTAS O(n), O(1)

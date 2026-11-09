@@ -1,0 +1,11 @@
+print("✅ Booleanos ")
+print(True)
+print(False)
+print()
+print("✅ Operadores de Comparación")
+print(5 == 5)
+print(5 != 5) # Pregunta si 5 es diferente que 5
+print(7 > 3)
+print(2 < 9)
+print(5 >= 5)
+print(3 <= 4)

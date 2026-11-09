@@ -1,0 +1,8 @@
+codigo = input("Ïngrese un codigo no mayor de 5 caracteres: ")
+print(codigo.isdigit())
+print(codigo.isalpha())
+print(codigo.isalnum())
+print(codigo.isspace())
+print(codigo.isupper())
+print(codigo.islower())
+print(codigo.istitle())
